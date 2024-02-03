@@ -1,0 +1,83 @@
+                                     ******* Enhancement *******
+
+
+
+Product-: Product is nothing but provide a generic solution to any Busniess or customer.
+
+
+Enhancement => 
+
+
+**** Enhancements Type ***
+
+1) User Exit
+
+2) Customer Exit
+
+3) BADI - Business Add Ins.
+
+4) Enhancement.
+
+
+1) User Exit - Basically used in Implementation Phase,
+
+a) Mostly applicable for SD Module program.
+
+b) Subroutine form.
+
+c) Need access key to inlcude custom code.
+
+
+2) Customer Exit
+
+a) Applicable for all the modules - decided by SAP.
+
+b) Funtion Module + inlcude Program (Inlcude program start with G so not required any access key)
+
+c) Doesn't require access key to include custom code.
+
+d) Different types.
+
+e) CMOD & SMOD Transactions. where CMOD is create MOD and SMOD is Search Modification.
+
+
+     ***** Types of Customer Exit ******
+
+Customer Exit
+
+1) Function Module Exits => Wrtite here our logic
+
+2) Screen exits
+
+3) Menu Exits.
+
+4) Field Exits.
+
+
+********************* BADI ************************** Bussniess ADD Ins.
+
+- OO Methodology
+
+*** Types of BADI ****
+
+1) Single, Multiple implementation, Filter  and Custom
+
+3)SE18 and SE19 Transactions.
+
+
+
+******* Enhancement Framework or Enhancement ********
+
+ Types of Enhacement
+
+1) Implicit Enhancement options
+
+2) Explicit Enhancement options
+
+   ***** Type of Explicit Enhancement options****
+
+a) Enhancement Point.
+
+b) Enhancement Section.
+
+Tcode for Enhancement => SE18 and SE19  Transactions.
